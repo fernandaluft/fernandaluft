@@ -12,9 +12,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](mailto:fernandaluft@gmail.com)
-[![website](./img/globe-dark.svg)](mailto:fernandaluft@gmail.com)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fernanda-luft/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fernanda-luft/)
 &nbsp;&nbsp;
 
