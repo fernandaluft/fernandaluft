@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on data analysis and machine learning projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: fernandaluft@gmail.com 📨
+
 
 ### Connect with me:
 
