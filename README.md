@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Fernanda :)
 
-<!--
-**fernandaluft/fernandaluft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am a self-starter, data analytics nerd and personal finance enthusiast!!
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything data related 🤓
+- 👯 I’m looking to collaborate on data analysis and machine learning projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: fernandaluft@gmail.com 📨
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](mailto:fernandaluft@gmail.com)
+[![website](./img/globe-dark.svg)](mailto:fernandaluft@gmail.com)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fernanda-luft/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fernanda-luft/)
+&nbsp;&nbsp;
+
