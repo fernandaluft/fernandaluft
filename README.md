@@ -2,11 +2,9 @@
 
 ### I am a self-starter, data analytics nerd and personal finance enthusiast!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything data related 🤓
+- 🔭 I’m currently working on personal projects to develop my skills 
+- 🌱 I’m currently learning everything data 🤓
 - 👯 I’m looking to collaborate on data analysis and machine learning projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
 
 ### Connect with me:
